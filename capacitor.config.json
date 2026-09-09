@@ -1,0 +1,8 @@
+{
+  "appId": "com.lunari.gestion",
+  "appName": "Lunari",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}

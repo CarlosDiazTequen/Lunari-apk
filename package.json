@@ -1,0 +1,19 @@
+{
+  "name": "lunari-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lunari - gestion de pedidos, insumos, ventas y finanzas para negocios de productos personalizados",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/share": "^6.0.2",
+    "@capacitor/app": "^6.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
